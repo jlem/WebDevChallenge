@@ -3,14 +3,15 @@
 ***
 
 ## Table of contents
-1. [Api](#API)
-2. [Auth and Service](#Auth-and-Sessions)
+1. [Api](#api)
+2. [Auth and Service](#auth-and-sessions)
 3. [CSS](#css)
 4. [Database](#database)
-5. [Environments and Server](#Environments-and-Servers)
+5. [Environments and Server](#environments-and-servers)
 6. [Git](#git)
 7. [JavaScript](#javascript)
 8. [Misc](#misc)
+
 ***
 
 ## Challenges
