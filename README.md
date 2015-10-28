@@ -88,6 +88,7 @@
 ### Misc
 * Build a chrome extension that shows WHOIS information about the domain you're on
 * Build a scraper that aggregates all the hash tags and their links from Twitter's home page. Hint - requires you to be authenticated.
+* Build a link shortener
 
 ### Mobile/Hybrid
 * Create a Ionic project using http://www.ionicframework.com/
