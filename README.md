@@ -1,17 +1,20 @@
 # WebDevChallenge
-A hopefully ever-growing list of web-development related challenges
+> A hopefully ever-growing list of web-development related challenges
+***
+
+## Table of contents
+1. [Api](#api)
+2. [Auth and Service](#auth-and-sessions)
+3. [CSS](#css)
+4. [Database](#database)
+5. [Environments and Server](#environments-and-servers)
+6. [Git](#git)
+7. [JavaScript](#javascript)
+8. [Misc](#misc)
+
+***
 
 ## Challenges
-
-### Auth & Sessions
-* Traditional form-based identifier/password
-* Traditional form-based Identifier/password w/remember-me feature
-* Implement JWT auth
-* SSO
-* Password-less auth
-* Auth via social network accounts
-* Implement an OAuth2 server and a fake service and a fake app to make use of it
-* Adding user registration
 
 ### API
 * Build a REST API for <something>
@@ -24,6 +27,16 @@ A hopefully ever-growing list of web-development related challenges
 * Display a Twitter feed on a page through its API
 * Create a web app that lets authenticated users post tweets to your Twitter account
 * Build a Reddit bot that follows you around and gives you random compliments when you post
+
+### Auth and Sessions
+* Traditional form-based identifier/password
+* Traditional form-based Identifier/password w/remember-me feature
+* Implement JWT auth
+* SSO
+* Password-less auth
+* Auth via social network accounts
+* Implement an OAuth2 server and a fake service and a fake app to make use of it
+* Adding user registration
 
 ### CSS
 * Draw Homer Simpson using nothing but CSS
@@ -43,15 +56,6 @@ A hopefully ever-growing list of web-development related challenges
 * Do the above, but with the nested set pattern
 * Write a SQL query that removes all duplicate records from a table
 
-### JS
-* Create an image slider that accepts any number of slides and changes them every 5 seconds
-* Create a sticky element that doesn't attach to the top of the screen until you scroll to its position
-* AJAX submit a form, validate it server-side, and display those validation errors
-
-### Misc
-* Build a chrome extension that shows WHOIS information about the domain you're on
-* Build a scraper that aggregates all the hash tags and their links from Twitter's home page. Hint - requires you to be authenticated.
-
 ### Environments and Servers
 * Create a Vagrant box that would let you host a new Rails site
 * Create a Vagrant box that would let you host a new Wordpress site
@@ -61,3 +65,12 @@ A hopefully ever-growing list of web-development related challenges
 
 ### Git
 * Set up two different GitHub accounts, and learn how to SSH different projects with different accounts
+
+### JavaScript
+* Create an image slider that accepts any number of slides and changes them every 5 seconds
+* Create a sticky element that doesn't attach to the top of the screen until you scroll to its position
+* AJAX submit a form, validate it server-side, and display those validation errors
+
+### Misc
+* Build a chrome extension that shows WHOIS information about the domain you're on
+* Build a scraper that aggregates all the hash tags and their links from Twitter's home page. Hint - requires you to be authenticated.
