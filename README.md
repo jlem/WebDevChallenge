@@ -57,6 +57,7 @@
 * Do the same, as the above, but only for the iPhone 6 Plus.
 * Try a preprocessor like LESS, SASS or Stylus.
 * Create a responsive grid with flexbox [Tutorial](http://www.taniarascia.com/easiest-flex-grid-ever/)
+* Create a simple website with parallax effect.
 
 ### Database
 * Create a normalized database for storing comments and authors. Using that database, display the comments with authors, without incurring N+1 queries to do it.
@@ -100,3 +101,8 @@
 
 ### Task Runners
 * Use Grunt to compile Sass into CSS, minify, and autoprefix. [Tutorial](http://www.taniarascia.com/getting-started-with-grunt-and-sass/)
+* Once you understand task runners, create a script that wrties out your task runner script to DRY it up!
+
+### Testing
+* Learn how to test your personal stack. Rspec, Capybara, FactoryGirl for the Rails stack, for example.
+* Learn TDD (test-driven development) philosophies.
