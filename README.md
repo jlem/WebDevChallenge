@@ -2,6 +2,12 @@
 > A hopefully ever-growing list of web-development related challenges
 ***
 
+## Guidelines for writing challenges
+* 1. Don't be too vague, but don't be too specific. Make the challenge itself specific and measurable, but try not to impose a language or framework.
+* 2. If you do want to create a framework/language specific challenge, try to focus on challenges that are unique to that framework/language.
+* 3. Avoid "learn XYZ" style challenges - focus on challenges that can be DONE or shown in a git repo.
+* 4. Favor challenges that will teach a new, useful skill that is relevant to web development, or skills that teach devs how to solve real web dev problems. The challenge can be a fun, meaningless exercise, but its purpose should be to expose the developer to skills that are applicable to daily web dev tasks.
+
 ## Table of contents
 1. [Api](#api)
 2. [Auth and Service](#auth-and-sessions)
