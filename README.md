@@ -66,6 +66,7 @@
 * Create a responsive grid with flexbox [Tutorial](http://www.taniarascia.com/easiest-flex-grid-ever/)
 * Create a basic website using Bootstrap
 * Create a basic website using Foundation
+* Create a pure CSS parallax scrolling effect
 
 ### Database
 * Create a normalized database for storing comments and authors. Using that database, display the comments with authors, without incurring N+1 queries to do it.
