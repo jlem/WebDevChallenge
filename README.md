@@ -5,20 +5,24 @@
 ## Table of contents
 1. [Api](#api)
 2. [Auth and Service](#auth-and-sessions)
+3. [CMS](#cms)
 3. [CSS](#css)
 4. [Database](#database)
 5. [Environments and Server](#environments-and-servers)
 6. [Git](#git)
 7. [JavaScript](#javascript)
 8. [Misc](#misc)
+9. [Mobile/Hybrid](#mobilehybrid)
+9. [PHP](#php)
+10. [Task Runners](#task-runners)
 
 ***
 
 ## Challenges
 
 ### API
-* Build a REST API for <something>
-* Build a SOAP API <something>
+* Build a REST API for something.
+* Build a SOAP API something.
 * Add API authentication.
 * Add API request throttling.
 * Add API versioning.
@@ -39,6 +43,9 @@
 * Implement an OAuth2 server and a fake service and a fake app to make use of it.
 * Adding user registration.
 
+### CMS
+* Set up WordPress and create a custom theme [Tutorial](http://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/)
+
 ### CSS
 * Draw Homer Simpson using nothing but CSS.
 * Create a sprite sheet of Simpsons character components and create your own FrankenSimpson from it.
@@ -46,9 +53,10 @@
 * Create a responsive three column equal height layout divided by 1px borders/dividers.
 * Create a sticky header.
 * Create a sticky footer.
-* Collapse a navigation bar to a hamburger menu when you're using any mobile device.
+* Collapse a navigation bar to a hamburger menu when you're using any mobile device [Tutorial](http://www.taniarascia.com/responsive-dropdown-navigation-bar/)
 * Do the same, as the above, but only for the iPhone 6 Plus.
 * Try a preprocessor like LESS, SASS or Stylus.
+* Create a responsive grid with flexbox [Tutorial](http://www.taniarascia.com/easiest-flex-grid-ever/)
 
 ### Database
 * Create a normalized database for storing comments and authors. Using that database, display the comments with authors, without incurring N+1 queries to do it.
@@ -65,9 +73,12 @@
 * Create a Vagrant box that would let you host a new Django site.
 * Set up your own DigitalOcean server and provision it to host one of the three sites above.
 * Set up public/private SSH keys for that server.
+* Set up a local MAMP environment [Tutorial](http://www.taniarascia.com/local-environment/)
+* Set up virtual hosts so each site can have its own local domain [Tutorial](http://www.taniarascia.com/setting-up-virtual-hosts/)
 
 ### Git
 * Set up two different GitHub accounts, and learn how to SSH different projects with different accounts.
+* Use command line to push a Git repository from a local environment to a live server. [Tutorial](http://www.taniarascia.com/getting-started-with-git/)
 
 ### JavaScript
 * Create an image slider that accepts any number of slides and changes them every 5 seconds.
@@ -85,3 +96,6 @@
 
 ### PHP
 * Try to create a project using Laravel.
+
+### Task Runners
+* Use Grunt to compile Sass into CSS, minify, and autoprefix. [Tutorial](http://www.taniarascia.com/getting-started-with-grunt-and-sass/)
