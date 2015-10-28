@@ -31,8 +31,9 @@ A hopefully ever-growing list of web-development related challenges
 * Vertically center a div
 * Create a responsive three column equal height layout divided by 1px borders/dividers
 * Create a sticky header
-* Collapse a navigation bar to a hamburger menu when you're using any mobile device
+* Collapse a navigation bar to a hamburger menu when you're using any mobile device [Tutorial](http://www.taniarascia.com/responsive-dropdown-navigation-bar/)
 * Do the same, as the above, but only for the iPhone 6 Plus
+* Create a responsive grid with flexbox [Tutorial](http://www.taniarascia.com/easiest-flex-grid-ever/)
 
 ### Database
 * Create a normalized database for storing comments and authors. Using that database, display the comments with authors, without incurring N+1 queries to do it.
@@ -42,6 +43,12 @@ A hopefully ever-growing list of web-development related challenges
 * Do the above, but with the closure table pattern
 * Do the above, but with the nested set pattern
 * Write a SQL query that removes all duplicate records from a table
+
+### Task Runners
+* Use Grunt to compile Sass into CSS, minify, and autoprefix. [Tutorial](http://www.taniarascia.com/getting-started-with-grunt-and-sass/)
+
+### CMS
+* Set up WordPress and create a custom theme [Tutorial](http://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/)
 
 ### JS
 * Create an image slider that accepts any number of slides and changes them every 5 seconds
@@ -58,6 +65,9 @@ A hopefully ever-growing list of web-development related challenges
 * Create a Vagrant box that would let you host a new Django site
 * Set up your own DigitalOcean server and provision it to host one of the three sites above.
 * Set up public/private SSH keys for that server
+* Set up a local MAMP environment [Tutorial](http://www.taniarascia.com/local-environment/)
+* Set up virtual hosts [Tutorial](http://www.taniarascia.com/setting-up-virtual-hosts/)
 
 ### Git
 * Set up two different GitHub accounts, and learn how to SSH different projects with different accounts
+* Use command line to push a Git repository from a local environment to a live server. [Tutorial](http://www.taniarascia.com/getting-started-with-git/)
