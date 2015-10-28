@@ -22,7 +22,7 @@
 
 ### API
 * Build a REST API for something.
-* Build a SOAP API something.
+* Build a SOAP API for something.
 * Add API authentication.
 * Add API request throttling.
 * Add API versioning.
@@ -37,7 +37,7 @@
 * Traditional form-based identifier/password.
 * Traditional form-based Identifier/password w/remember-me feature.
 * Implement JWT auth.
-* SSO
+* SSO.
 * Password-less auth.
 * Auth via social network accounts.
 * Implement an OAuth2 server and a fake service and a fake app to make use of it.
@@ -45,6 +45,7 @@
 
 ### CMS
 * Set up WordPress and create a custom theme [Tutorial](http://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/)
+* Set up Drupal and create a custom theme [Tutorial](https://www.drupal.org/documentation/theme)
 
 ### CSS
 * Draw Homer Simpson using nothing but CSS.
@@ -57,6 +58,8 @@
 * Do the same, as the above, but only for the iPhone 6 Plus.
 * Try a preprocessor like LESS, SASS or Stylus.
 * Create a responsive grid with flexbox [Tutorial](http://www.taniarascia.com/easiest-flex-grid-ever/)
+* Create a basic website using Bootstrap
+* Create a basic website using Foundation
 
 ### Database
 * Create a normalized database for storing comments and authors. Using that database, display the comments with authors, without incurring N+1 queries to do it.
@@ -84,6 +87,7 @@
 * Create an image slider that accepts any number of slides and changes them every 5 seconds.
 * Create a sticky element that doesn't attach to the top of the screen until you scroll to its position.
 * AJAX submit a form, validate it server-side, and display those validation errors.
+* Redo the exercises using jQuery
 
 ### Misc
 * Build a chrome extension that shows WHOIS information about the domain you're on
@@ -100,3 +104,5 @@
 
 ### Task Runners
 * Use Grunt to compile Sass into CSS, minify, and autoprefix. [Tutorial](http://www.taniarascia.com/getting-started-with-grunt-and-sass/)
+* Use Gulp to compile Sass into CSS, minify, and autoprefix. [Tutorial](https://css-tricks.com/gulp-for-beginners/)
+
