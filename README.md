@@ -5,7 +5,7 @@
 ## Guidelines for writing challenges
 * 1. Don't be too vague, but don't be too specific. Make the challenge itself specific and measurable, but try not to impose a language or framework.
 * 2. If you do want to create a framework/language specific challenge, try to focus on challenges that are unique to that framework/language.
-* 3. Avoid "learn XYZ" style challenges - focus on challenges that can be DONE or shown in a git repo.
+* 3. Avoid "learn XYZ" style challenges - focus on challenges that can be DONE or shown in a Git repo.
 * 4. Favor challenges that will teach a new, useful skill that is relevant to web development, or skills that teach devs how to solve real web dev problems. The challenge can be a fun, meaningless exercise, but its purpose should be to expose the developer to skills that are applicable to daily web dev tasks.
 
 ## Table of contents
@@ -37,7 +37,7 @@
 * Display a Twitter feed on a page through its API.
 * Create a web app that lets authenticated users post tweets to your Twitter account.
 * Build a Reddit bot that follows you around and gives you random compliments when you post.
-* Display LinkedIn work experience on a page trough its API.
+* Display LinkedIn work experience on a page through its API.
 
 ### Auth and Sessions
 * Traditional form-based identifier/password.
@@ -78,7 +78,7 @@
 
 ### Environments and Servers
 * Create a Vagrant box that would let you host a new Rails site.
-* Create a Vagrant box that would let you host a new Wordpress site.
+* Create a Vagrant box that would let you host a new WordPress site.
 * Create a Vagrant box that would let you host a new Django site.
 * Set up your own DigitalOcean server and provision it to host one of the three sites above.
 * Set up public/private SSH keys for that server.
