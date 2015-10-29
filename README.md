@@ -50,8 +50,8 @@
 * Adding user registration.
 
 ### CMS
-* Set up WordPress and create a custom theme ~ [Tutorial](http://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/)
-* Set up Drupal and create a custom theme ~ [Tutorial](https://www.drupal.org/documentation/theme)
+* Set up WordPress and create a custom theme ~ [Developing a WordPress Theme from Scratch](http://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/)
+* Set up Drupal and create a custom theme ~ [Drupal Theming Guide](https://www.drupal.org/documentation/theme)
 
 ### CSS
 * Draw Homer Simpson using nothing but CSS.
@@ -60,10 +60,10 @@
 * Create a responsive three column equal height layout divided by 1px borders/dividers.
 * Create a sticky header.
 * Create a sticky footer.
-* Collapse a navigation bar to a hamburger menu when you're using any mobile device ~ [Tutorial](http://www.taniarascia.com/responsive-dropdown-navigation-bar/)
+* Collapse a navigation bar to a hamburger menu when you're using any mobile device ~ [Responsive Dropdown Navigation Bar](http://www.taniarascia.com/responsive-dropdown-navigation-bar/)
 * Do the same, as the above, but only for the iPhone 6 Plus.
 * Try a preprocessor like LESS, SASS or Stylus.
-* Create a responsive grid with flexbox ~ [Tutorial](http://www.taniarascia.com/easiest-flex-grid-ever/)
+* Create a responsive grid with flexbox ~ [Easiest Flex Grid Ever](http://www.taniarascia.com/easiest-flex-grid-ever/)
 * Create a basic webpage using Bootstrap
 * Create a basic webpage using Foundation
 
@@ -87,7 +87,7 @@
 
 ### Git
 * Set up two different GitHub accounts, and learn how to SSH different projects with different accounts.
-* Use command line to push a Git repository from a local environment to a live server. ~ [Tutorial](http://www.taniarascia.com/getting-started-with-git/)
+* Use command line to push a Git repository from a local environment to a live server. ~ [Getting Started with Git](http://www.taniarascia.com/getting-started-with-git/)
 * Squash different Git commits together
 
 ### JavaScript
@@ -118,6 +118,6 @@
 * Implement a templating engine (smarty or twig)
 
 ### Task Runners
-* Use Grunt to compile Sass into CSS, minify, and autoprefix. ~ [Tutorial](http://www.taniarascia.com/getting-started-with-grunt-and-sass/)
-* Use Gulp to compile Sass into CSS, minify, and autoprefix. ~ [Tutorial](https://css-tricks.com/gulp-for-beginners/)
+* Use Grunt to compile Sass into CSS, minify, and autoprefix. ~ [Getting Started with Grunt and Sass](http://www.taniarascia.com/getting-started-with-grunt-and-sass/)
+* Use Gulp to compile Sass into CSS, minify, and autoprefix. ~ [Gulp for Beginners](https://css-tricks.com/gulp-for-beginners/)
 
