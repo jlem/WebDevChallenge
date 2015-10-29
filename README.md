@@ -120,4 +120,5 @@
 ### Task Runners
 * Use Grunt to compile Sass into CSS, minify, and autoprefix. ~ [Tutorial](http://www.taniarascia.com/getting-started-with-grunt-and-sass/)
 * Use Gulp to compile Sass into CSS, minify, and autoprefix. ~ [Tutorial](https://css-tricks.com/gulp-for-beginners/)
+* Use [npm scripts](http://substack.net/task_automation_with_npm_run) to compile Sass into CSS, minify and autoprefix
 
