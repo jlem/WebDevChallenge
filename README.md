@@ -48,6 +48,7 @@
 * Auth via social network accounts.
 * Implement an OAuth2 server and a fake service and a fake app to make use of it.
 * Adding user registration.
+* Incorporate email confirmation and forgotten password functionality.
 
 ### CMS
 * Set up WordPress and create a custom theme ~ [Tutorial](http://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/)
@@ -84,6 +85,8 @@
 * Set up public/private SSH keys for that server.
 * Set up a local MAMP or WAMP environment ~ [MAMP Tutorial](http://www.taniarascia.com/local-environment/), [WAMP Tutorial](https://www.vultr.com/docs/setup-a-wamp-server-on-windows)
 * Set up virtual hosts so each site can have its own local domain ~ [MAMP Tutorial](http://www.taniarascia.com/setting-up-virtual-hosts/), [WAMP Tutorial](https://john-dugan.com/wamp-vhost-setup/)
+* Create and run a Docker image that would let you host a Django site. 
+* Deploy using a Docker image on services such as DigitalOcean or AWS ECS. 
 
 ### Git
 * Set up two different GitHub accounts, and learn how to SSH different projects with different accounts.
@@ -99,6 +102,8 @@
 * Build a tic tac toe game
 * Build a simple multi-page app using Angular.js
 * Build a select-box replacement plugin
+* Create a navigation bar that tracks your scrolling activity and indicates which section of the page you're viewing.
+* Validate form data on the client-side.
 
 ### Misc
 * Build a chrome extension that shows WHOIS information about the domain you're on
@@ -120,4 +125,5 @@
 ### Task Runners
 * Use Grunt to compile Sass into CSS, minify, and autoprefix. ~ [Tutorial](http://www.taniarascia.com/getting-started-with-grunt-and-sass/)
 * Use Gulp to compile Sass into CSS, minify, and autoprefix. ~ [Tutorial](https://css-tricks.com/gulp-for-beginners/)
+* Setup LiveReload with either Grunt or Grunt. 
 
