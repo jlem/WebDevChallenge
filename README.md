@@ -88,12 +88,17 @@
 ### Git
 * Set up two different GitHub accounts, and learn how to SSH different projects with different accounts.
 * Use command line to push a Git repository from a local environment to a live server. ~ [Tutorial](http://www.taniarascia.com/getting-started-with-git/)
+* Squash different Git commits together
 
 ### JavaScript
 * Create an image slider that accepts any number of slides and changes them every 5 seconds.
 * Create a sticky element that doesn't attach to the top of the screen until you scroll to its position.
 * AJAX submit a form, validate it server-side, and display those validation errors.
 * Redo the exercises using jQuery
+* Create a drag and drop functionality to upload files
+* Build a tic tac toe game
+* Build a simple multi-page app using Angular.js
+* Build a select-box replacement plugin
 
 ### Misc
 * Build a chrome extension that shows WHOIS information about the domain you're on
@@ -108,6 +113,9 @@
 ### PHP
 * Try to create a project using Laravel.
 * Create basic login system.
+* Create a custom form validation
+* Create a small custom blog system that contains CRUD operations
+* Implement a templating engine (smarty or twig)
 
 ### Task Runners
 * Use Grunt to compile Sass into CSS, minify, and autoprefix. ~ [Tutorial](http://www.taniarascia.com/getting-started-with-grunt-and-sass/)
