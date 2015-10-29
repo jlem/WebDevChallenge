@@ -9,22 +9,28 @@
 * 4. Favor challenges that will teach a new, useful skill that is relevant to web development, or skills that teach devs how to solve real web dev problems. The challenge can be a fun, meaningless exercise, but its purpose should be to expose the developer to skills that are applicable to daily web dev tasks.
 
 ## Table of contents
-1. [Api](#api)
-2. [Auth and Service](#auth-and-sessions)
-3. [CMS](#cms)
-3. [CSS](#css)
-4. [Database](#database)
-5. [Environments and Server](#environments-and-servers)
-6. [Git](#git)
-7. [JavaScript](#javascript)
-8. [Misc](#misc)
-9. [Mobile/Hybrid](#mobilehybrid)
-9. [PHP](#php)
-10. [Task Runners](#task-runners)
+1. [Accessibility](#accessibility)
+2. [Api](#api)
+3. [Auth and Service](#auth-and-sessions)
+4. [CMS](#cms)
+5. [CSS](#css)
+6. [Database](#database)
+7. [Environments and Server](#environments-and-servers)
+8. [Git](#git)
+9. [JavaScript](#javascript)
+10. [Misc](#misc)
+11. [Mobile/Hybrid](#mobilehybrid)
+12. [PHP](#php)
+13. [Task Runners](#task-runners)
 
 ***
 
 ## Challenges
+
+### Accessibility
+* Use a screen reader to test your pages
+    * [Using NVDA to Evaluate Web Accessibility](http://webaim.org/articles/nvda/)
+    * [Using VoiceOver to Evaluate Web Accessibility](http://webaim.org/articles/voiceover/)
 
 ### API
 * Build a REST API for something.
