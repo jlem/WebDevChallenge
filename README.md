@@ -121,3 +121,7 @@
 * Use Grunt to compile Sass into CSS, minify, and autoprefix. ~ [Tutorial](http://www.taniarascia.com/getting-started-with-grunt-and-sass/)
 * Use Gulp to compile Sass into CSS, minify, and autoprefix. ~ [Tutorial](https://css-tricks.com/gulp-for-beginners/)
 
+### Terminal / Shell
+* Write a shell script that copies files from one location to another.
+* Write a shell script that allows you to google a search term from the command line.
+* Write a shell script that prints a unicorn in ASCII characters.
