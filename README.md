@@ -38,6 +38,7 @@
 * Create a web app that lets authenticated users post tweets to your Twitter account.
 * Build a Reddit bot that follows you around and gives you random compliments when you post.
 * Display LinkedIn work experience on a page trough its API.
+* Use the Spotify API to search for a particular song or artist and create a webpage with details on that particular song/artist.
 
 ### Auth and Sessions
 * Traditional form-based identifier/password.
@@ -84,11 +85,14 @@
 * Set up public/private SSH keys for that server.
 * Set up a local MAMP or WAMP environment ~ [MAMP Tutorial](http://www.taniarascia.com/local-environment/), [WAMP Tutorial](https://www.vultr.com/docs/setup-a-wamp-server-on-windows)
 * Set up virtual hosts so each site can have its own local domain ~ [MAMP Tutorial](http://www.taniarascia.com/setting-up-virtual-hosts/), [WAMP Tutorial](https://john-dugan.com/wamp-vhost-setup/)
+* Create a Bootstrap web application and link it to your server. http://getbootstrap.com/
+* Create a simple Node.js application and host it on your server.
 
 ### Git
 * Set up two different GitHub accounts, and learn how to SSH different projects with different accounts.
 * Use command line to push a Git repository from a local environment to a live server. ~ [Tutorial](http://www.taniarascia.com/getting-started-with-git/)
 * Squash different Git commits together
+* Try creating a pull request on another repository! You never know what good stuff could happen...
 
 ### JavaScript
 * Create an image slider that accepts any number of slides and changes them every 5 seconds.
@@ -99,11 +103,13 @@
 * Build a tic tac toe game
 * Build a simple multi-page app using Angular.js
 * Build a select-box replacement plugin
+* Create a scrolling code label that looks like The Matrix
 
 ### Misc
 * Build a chrome extension that shows WHOIS information about the domain you're on
 * Build a scraper that aggregates all the hash tags and their links from Twitter's home page. Hint - requires you to be authenticated.
 * Build a link shortener
+* Create a link/URL lengthener (making it much longer) with funny/meme/themed words in the URL, ex. Star Wars, Space Jam, etc.
 
 ### Mobile/Hybrid
 * Create a Ionic project using http://www.ionicframework.com/
