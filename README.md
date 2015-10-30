@@ -38,6 +38,7 @@
 * Create a web app that lets authenticated users post tweets to your Twitter account.
 * Build a Reddit bot that follows you around and gives you random compliments when you post.
 * Display LinkedIn work experience on a page trough its API.
+* Create a custom-styled map using the Google Maps API
 
 ### Auth and Sessions
 * Traditional form-based identifier/password.
@@ -96,14 +97,17 @@
 * AJAX submit a form, validate it server-side, and display those validation errors.
 * Redo the exercises using jQuery
 * Create a drag and drop functionality to upload files
+* Build a basic plugin boilerplate
 * Build a tic tac toe game
 * Build a simple multi-page app using Angular.js
 * Build a select-box replacement plugin
+* Build a date-picker plugin
 
 ### Misc
 * Build a chrome extension that shows WHOIS information about the domain you're on
 * Build a scraper that aggregates all the hash tags and their links from Twitter's home page. Hint - requires you to be authenticated.
 * Build a link shortener
+* Build a simple portfolio website to showcase your work
 
 ### Mobile/Hybrid
 * Create a Ionic project using http://www.ionicframework.com/
@@ -120,4 +124,3 @@
 ### Task Runners
 * Use Grunt to compile Sass into CSS, minify, and autoprefix. ~ [Tutorial](http://www.taniarascia.com/getting-started-with-grunt-and-sass/)
 * Use Gulp to compile Sass into CSS, minify, and autoprefix. ~ [Tutorial](https://css-tricks.com/gulp-for-beginners/)
-
