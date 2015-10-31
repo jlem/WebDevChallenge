@@ -72,6 +72,7 @@
 * Create a responsive grid with flexbox ~ [Easiest Flex Grid Ever](http://www.taniarascia.com/easiest-flex-grid-ever/)
 * Create a basic webpage using Bootstrap
 * Create a basic webpage using Foundation
+* Create a simple website with parallax effect.
 
 ### Database
 * Create a normalized database for storing comments and authors. Using that database, display the comments with authors, without incurring N+1 queries to do it.
@@ -131,3 +132,4 @@
 * Write a shell script that copies files from one location to another.
 * Write a shell script that allows you to google a search term from the command line.
 * Write a shell script that prints a unicorn in ASCII characters.
+
