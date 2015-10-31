@@ -68,7 +68,10 @@
 * Create a sticky header.
 * Create a sticky footer.
 * Collapse a navigation bar to a hamburger menu when you're using any mobile device ~ [Responsive Dropdown Navigation Bar](http://www.taniarascia.com/responsive-dropdown-navigation-bar/)
+* Create a responsive website by using CSS media queries.
+* Collapse a navigation bar to a hamburger menu when you're using any mobile device ~ [Tutorial](http://www.taniarascia.com/responsive-dropdown-navigation-bar/)
 * Do the same, as the above, but only for the iPhone 6 Plus.
+* Create a basic CSS3 animation which uses opacity, transform and keyframes.
 * Try a preprocessor like LESS, SASS or Stylus.
 * Create a responsive grid with flexbox ~ [Easiest Flex Grid Ever](http://www.taniarascia.com/easiest-flex-grid-ever/)
 * Create a basic website using Bootstrap
@@ -105,20 +108,22 @@
 * Create an image slider that accepts any number of slides and changes them every 5 seconds.
 * Create a sticky element that doesn't attach to the top of the screen until you scroll to its position.
 * AJAX submit a form, validate it server-side, and display those validation errors.
-* Redo the exercises using jQuery
-* Create a drag and drop functionality to upload files
-* Build a basic plugin boilerplate
-* Build a tic tac toe game
-* Build a simple multi-page app using Angular.js
-* Build a select-box replacement plugin
-* Build a date-picker plugin
+* Build a date-picker plugin.
+* Create a drag and drop functionality to upload files.
+* Build a tic tac toe game.
+* Build a simple multi-page app using Angular.js.
+* Build a select-box replacement plugin.
+* Build a plugin that provides a popup window functionality.
+* Redo the exercises using jQuery.
 
 ### Misc
-* Build a chrome extension that shows WHOIS information about the domain you're on
+* Build a chrome extension that contains a content script which modifies the Facebook appearance.
+* Build a chrome extension which provides a possibility of adding bookmarks with a form on the newtab page.
+* Build a chrome extension that shows WHOIS information about the domain you're on.
 * Build a scraper that aggregates all the hash tags and their links from Twitter's home page. Hint - requires you to be authenticated.
-* Build a link shortener
+* Build a link shortener.
 * Create a link/URL lengthener (making it much longer) with funny/meme/themed words in the URL, ex. Star Wars, Space Jam, etc.
-* Build a simple portfolio website to showcase your work
+* Build a simple portfolio website to showcase your work.
 
 ### Mobile/Hybrid
 * Create a Ionic project using http://www.ionicframework.com/
