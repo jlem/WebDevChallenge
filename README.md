@@ -9,22 +9,28 @@
 * 4. Favor challenges that will teach a new, useful skill that is relevant to web development, or skills that teach devs how to solve real web dev problems. The challenge can be a fun, meaningless exercise, but its purpose should be to expose the developer to skills that are applicable to daily web dev tasks.
 
 ## Table of contents
-1. [Api](#api)
-2. [Auth and Service](#auth-and-sessions)
-3. [CMS](#cms)
-3. [CSS](#css)
-4. [Database](#database)
-5. [Environments and Server](#environments-and-servers)
-6. [Git](#git)
-7. [JavaScript](#javascript)
-8. [Misc](#misc)
-9. [Mobile/Hybrid](#mobilehybrid)
-9. [PHP](#php)
-10. [Task Runners](#task-runners)
+1. [Accessibility](#accessibility)
+2. [Api](#api)
+3. [Auth and Service](#auth-and-sessions)
+4. [CMS](#cms)
+5. [CSS](#css)
+6. [Database](#database)
+7. [Environments and Server](#environments-and-servers)
+8. [Git](#git)
+9. [JavaScript](#javascript)
+10. [Misc](#misc)
+11. [Mobile/Hybrid](#mobilehybrid)
+12. [PHP](#php)
+13. [Task Runners](#task-runners)
 
 ***
 
 ## Challenges
+
+### Accessibility
+* Use a screen reader to test your pages
+    * [Using NVDA to Evaluate Web Accessibility](http://webaim.org/articles/nvda/)
+    * [Using VoiceOver to Evaluate Web Accessibility](http://webaim.org/articles/voiceover/)
 
 ### API
 * Build a REST API for something.
@@ -50,8 +56,8 @@
 * Adding user registration.
 
 ### CMS
-* Set up WordPress and create a custom theme ~ [Tutorial](http://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/)
-* Set up Drupal and create a custom theme ~ [Tutorial](https://www.drupal.org/documentation/theme)
+* Set up WordPress and create a custom theme ~ [Developing a WordPress Theme from Scratch](http://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/)
+* Set up Drupal and create a custom theme ~ [Drupal Theming Guide](https://www.drupal.org/documentation/theme)
 
 ### CSS
 * Draw Homer Simpson using nothing but CSS.
@@ -60,10 +66,10 @@
 * Create a responsive three column equal height layout divided by 1px borders/dividers.
 * Create a sticky header.
 * Create a sticky footer.
-* Collapse a navigation bar to a hamburger menu when you're using any mobile device ~ [Tutorial](http://www.taniarascia.com/responsive-dropdown-navigation-bar/)
+* Collapse a navigation bar to a hamburger menu when you're using any mobile device ~ [Responsive Dropdown Navigation Bar](http://www.taniarascia.com/responsive-dropdown-navigation-bar/)
 * Do the same, as the above, but only for the iPhone 6 Plus.
 * Try a preprocessor like LESS, SASS or Stylus.
-* Create a responsive grid with flexbox ~ [Tutorial](http://www.taniarascia.com/easiest-flex-grid-ever/)
+* Create a responsive grid with flexbox ~ [Easiest Flex Grid Ever](http://www.taniarascia.com/easiest-flex-grid-ever/)
 * Create a basic webpage using Bootstrap
 * Create a basic webpage using Foundation
 
@@ -87,7 +93,7 @@
 
 ### Git
 * Set up two different GitHub accounts, and learn how to SSH different projects with different accounts.
-* Use command line to push a Git repository from a local environment to a live server. ~ [Tutorial](http://www.taniarascia.com/getting-started-with-git/)
+* Use command line to push a Git repository from a local environment to a live server. ~ [Getting Started with Git](http://www.taniarascia.com/getting-started-with-git/)
 * Squash different Git commits together
 
 ### JavaScript
@@ -118,6 +124,6 @@
 * Implement a templating engine (smarty or twig)
 
 ### Task Runners
-* Use Grunt to compile Sass into CSS, minify, and autoprefix. ~ [Tutorial](http://www.taniarascia.com/getting-started-with-grunt-and-sass/)
-* Use Gulp to compile Sass into CSS, minify, and autoprefix. ~ [Tutorial](https://css-tricks.com/gulp-for-beginners/)
+* Use Grunt to compile Sass into CSS, minify, and autoprefix. ~ [Getting Started with Grunt and Sass](http://www.taniarascia.com/getting-started-with-grunt-and-sass/)
+* Use Gulp to compile Sass into CSS, minify, and autoprefix. ~ [Gulp for Beginners](https://css-tricks.com/gulp-for-beginners/)
 
