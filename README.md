@@ -138,6 +138,7 @@
 
 ### PHP
 - [ ] Try to create a project using Laravel.
+- [ ] Use the PHP password API to safely generate a password hash, verify it, and check if it needs to be rehashed due to a stronger work-factor.
 - [ ] Create basic login system.
 - [ ] Create a custom form validation
 - [ ] Create a small custom blog system that contains CRUD operations
