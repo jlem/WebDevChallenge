@@ -55,6 +55,7 @@
 * Auth via social network accounts.
 * Implement an OAuth2 server and a fake service and a fake app to make use of it.
 * Adding user registration.
+* Incorporate email confirmation and forgotten password functionality.
 
 ### CMS
 * Set up WordPress and create a custom theme ~ [Developing a WordPress Theme from Scratch](http://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/)
@@ -95,8 +96,13 @@
 * Set up public/private SSH keys for that server.
 * Set up a local MAMP or WAMP environment ~ [MAMP Tutorial](http://www.taniarascia.com/local-environment/), [WAMP Tutorial](https://www.vultr.com/docs/setup-a-wamp-server-on-windows)
 * Set up virtual hosts so each site can have its own local domain ~ [MAMP Tutorial](http://www.taniarascia.com/setting-up-virtual-hosts/), [WAMP Tutorial](https://john-dugan.com/wamp-vhost-setup/)
+<<<<<<< HEAD
 * Create a Bootstrap web application and link it to your server. http://getbootstrap.com/
 * Create a simple Node.js application and host it on your server.
+=======
+* Create and run a Docker image that would let you host a Django site. 
+* Deploy using a Docker image on services such as DigitalOcean or AWS ECS. 
+>>>>>>> 2f62dc835ece8f2d193ac0fcb8b185934f9280dd
 
 ### Git
 * Set up two different GitHub accounts, and learn how to SSH different projects with different accounts.
@@ -108,6 +114,7 @@
 * Create an image slider that accepts any number of slides and changes them every 5 seconds.
 * Create a sticky element that doesn't attach to the top of the screen until you scroll to its position.
 * AJAX submit a form, validate it server-side, and display those validation errors.
+* Validate form data on the client-side.
 * Build a date-picker plugin.
 * Create a drag and drop functionality to upload files.
 * Build a tic tac toe game.
@@ -115,6 +122,7 @@
 * Build a select-box replacement plugin.
 * Build a plugin that provides a popup window functionality.
 * Redo the exercises using jQuery.
+* Create a navigation bar that tracks your scrolling activity and indicates which section of the page you're viewing.
 
 ### Misc
 * Build a chrome extension that contains a content script which modifies the Facebook appearance.
@@ -141,6 +149,7 @@
 * Use Grunt to compile Sass into CSS, minify, and autoprefix. ~ [Getting Started with Grunt and Sass](http://www.taniarascia.com/getting-started-with-grunt-and-sass/)
 * Use Gulp to compile Sass into CSS, minify, and autoprefix. ~ [Gulp for Beginners](https://css-tricks.com/gulp-for-beginners/)
 * Use [npm scripts](http://substack.net/task_automation_with_npm_run) to compile Sass into CSS, minify and autoprefix
+* Setup LiveReload with either Grunt or Grunt. 
 
 ### Terminal / Shell
 * Write a shell script that copies files from one location to another.
