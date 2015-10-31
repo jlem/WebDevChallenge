@@ -22,6 +22,7 @@
 11. [Mobile/Hybrid](#mobilehybrid)
 12. [PHP](#php)
 13. [Task Runners](#task-runners)
+14. [Terminal / Shell](#terminal--shell)]
 
 ## Challenges
 
