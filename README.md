@@ -96,13 +96,10 @@
 - [ ] Set up public/private SSH keys for that server.
 - [ ] Set up a local MAMP or WAMP environment ~ [MAMP Tutorial](http://www.taniarascia.com/local-environment/), [WAMP Tutorial](https://www.vultr.com/docs/setup-a-wamp-server-on-windows)
 - [ ] Set up virtual hosts so each site can have its own local domain ~ [MAMP Tutorial](http://www.taniarascia.com/setting-up-virtual-hosts/), [WAMP Tutorial](https://john-dugan.com/wamp-vhost-setup/)
-<<<<<<< HEAD
 - [ ] Create a Bootstrap web application and link it to your server. http://getbootstrap.com/
 - [ ] Create a simple Node.js application and host it on your server.
-=======
 - [ ] Create and run a Docker image that would let you host a Django site.
 - [ ] Deploy using a Docker image on services such as DigitalOcean or AWS ECS.
->>>>>>> 2f62dc835ece8f2d193ac0fcb8b185934f9280dd
 
 ### Git
 - [ ] Set up two different GitHub accounts, and learn how to SSH different projects with different accounts.
