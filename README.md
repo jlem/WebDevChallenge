@@ -135,6 +135,7 @@
 ### Task Runners
 * Use Grunt to compile Sass into CSS, minify, and autoprefix. ~ [Getting Started with Grunt and Sass](http://www.taniarascia.com/getting-started-with-grunt-and-sass/)
 * Use Gulp to compile Sass into CSS, minify, and autoprefix. ~ [Gulp for Beginners](https://css-tricks.com/gulp-for-beginners/)
+* Use [npm scripts](http://substack.net/task_automation_with_npm_run) to compile Sass into CSS, minify and autoprefix
 
 ### Terminal / Shell
 * Write a shell script that copies files from one location to another.
