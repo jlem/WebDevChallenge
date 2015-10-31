@@ -44,6 +44,7 @@
 * Create a web app that lets authenticated users post tweets to your Twitter account.
 * Build a Reddit bot that follows you around and gives you random compliments when you post.
 * Display LinkedIn work experience on a page through its API.
+* Create a webapp using a weather API and an image API like flickr to display images based on the weather.
 
 ### Auth and Sessions
 * Traditional form-based identifier/password.
