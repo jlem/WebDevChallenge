@@ -70,9 +70,9 @@
 * Do the same, as the above, but only for the iPhone 6 Plus.
 * Try a preprocessor like LESS, SASS or Stylus.
 * Create a responsive grid with flexbox ~ [Easiest Flex Grid Ever](http://www.taniarascia.com/easiest-flex-grid-ever/)
-* Create a basic webpage using Bootstrap
-* Create a basic webpage using Foundation
-* Create a simple website with parallax effect.
+* Create a basic website using Bootstrap
+* Create a basic website using Foundation
+* Create a pure CSS parallax scrolling effect
 
 ### Database
 * Create a normalized database for storing comments and authors. Using that database, display the comments with authors, without incurring N+1 queries to do it.
