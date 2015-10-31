@@ -44,6 +44,7 @@
 * Display LinkedIn work experience on a page through its API.
 * Create a webapp using a weather API and an image API like flickr to display images based on the weather.
 * Use the Spotify API to search for a particular song or artist and create a webpage with details on that particular song/artist.
+* Create a custom-styled map using the Google Maps API
 
 ### Auth and Sessions
 * Traditional form-based identifier/password.
@@ -106,16 +107,18 @@
 * AJAX submit a form, validate it server-side, and display those validation errors.
 * Redo the exercises using jQuery
 * Create a drag and drop functionality to upload files
+* Build a basic plugin boilerplate
 * Build a tic tac toe game
 * Build a simple multi-page app using Angular.js
 * Build a select-box replacement plugin
-* Create a scrolling code label that looks like The Matrix
+* Build a date-picker plugin
 
 ### Misc
 * Build a chrome extension that shows WHOIS information about the domain you're on
 * Build a scraper that aggregates all the hash tags and their links from Twitter's home page. Hint - requires you to be authenticated.
 * Build a link shortener
 * Create a link/URL lengthener (making it much longer) with funny/meme/themed words in the URL, ex. Star Wars, Space Jam, etc.
+* Build a simple portfolio website to showcase your work
 
 ### Mobile/Hybrid
 * Create a Ionic project using http://www.ionicframework.com/
@@ -137,4 +140,3 @@
 * Write a shell script that copies files from one location to another.
 * Write a shell script that allows you to google a search term from the command line.
 * Write a shell script that prints a unicorn in ASCII characters.
-
