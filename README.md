@@ -121,6 +121,7 @@
 - [ ] Build a plugin that provides a popup window functionality.
 - [ ] Redo the exercises using jQuery.
 - [ ] Create a navigation bar that tracks your scrolling activity and indicates which section of the page you're viewing.
+- [ ] Create a pomodoro timer with start/stop/reset functionality.
 
 ### Misc
 - [ ] Build a chrome extension that contains a content script which modifies the Facebook appearance.
